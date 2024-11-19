@@ -2,4 +2,6 @@
 
 ## Exports
 
-```lua exports.tp_player_auctions:OpenAuctionStoreById(id)```
+```lua 
+exports.tp_player_auctions:OpenAuctionStoreById(id)
+```
